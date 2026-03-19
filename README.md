@@ -9,6 +9,12 @@
 
 ---
 
+## Why I build this?
+
+I needed an affordable RGB-D camera for robotics projects and didn't want to pay $300 for a RealSense.
+
+---
+
 ## What is this?
 
 DepthStreamer turns your iPhone Pro into a professional **RGB-D camera** — streaming synchronized color video and LiDAR depth data over WiFi to any Python script in real time.
