@@ -14,6 +14,10 @@ DepthStreamer turns your iPhone Pro into a professional **RGB-D camera** — str
 
 No paid apps. No USB cables. No extra hardware. Just your iPhone and your Mac.
 
+
+<img width="1178" height="739" alt="Screenshot 2026-03-19 at 10 53 20 a m" src="https://github.com/user-attachments/assets/1e4f7cd6-eed8-412c-9542-5dd49700990d" />
+
+
 ---
 
 ## Features
@@ -171,3 +175,6 @@ Built in one evening. Powered by ARKit, YOLO, and MediaPipe.
 
 *If this project helped you, a ⭐ on GitHub goes a long way.*
 [README.md](https://github.com/user-attachments/files/26119233/README.md)
+
+
+
