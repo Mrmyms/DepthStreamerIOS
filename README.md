@@ -171,8 +171,8 @@ Copyright (c) 2026 Manuel Yobani Martinez Sanchez
 
 ## Author
 
-**Manuel Yobani Martinez Sanches**
-Built in one evening. Powered by ARKit, YOLO, and MediaPipe.
+**Manuel Yobani Martinez Sanchez**
+ Powered by ARKit, YOLO, and MediaPipe.
 
 *If this project helped you, a ⭐ on GitHub goes a long way.*
 [README.md](https://github.com/user-attachments/files/26119233/README.md)
