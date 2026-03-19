@@ -2,9 +2,10 @@
 
 > Real-time RGB + LiDAR depth streaming from iPhone to Python/OpenCV — free, open source, and developer-ready.
 
-![Platform: iOS](https://img.shields.io/badge/Platform-iOS%2016%2B-blue.svg)
-![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)
-![LiDAR: Required](https://img.shields.io/badge/LiDAR-Required-orange.svg)
+![iOS 16+](https://img.shields.io/badge/iOS-16%2B-blue?logo=apple)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![LiDAR Required](https://img.shields.io/badge/Hardware-LiDAR%20Required-red)
 
 ---
 
