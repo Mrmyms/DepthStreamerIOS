@@ -159,7 +159,7 @@ MIT — free to use, modify, and distribute.
 **Credit required** — you must keep the original copyright notice in all copies.
 
 ```
-Copyright (c) 2026 Manuel Yobani Martinez Sanches
+Copyright (c) 2026 Manuel Yobani Martinez Sanchez
 ```
 
 ---
@@ -171,4 +171,3 @@ Built in one evening. Powered by ARKit, YOLO, and MediaPipe.
 
 *If this project helped you, a ⭐ on GitHub goes a long way.*
 [README.md](https://github.com/user-attachments/files/26119233/README.md)
-l RGB-D camera — streaming live color video and LiDAR depth data simultaneously over WiFi to Python and OpenCV. 
